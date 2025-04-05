@@ -1,0 +1,13 @@
+NomadShell_0.01
+fix main pogopins outside 
+make usb cap bigger - to change pich custom 1mm->2mm
+main pcb standoff smaller internal 
+bigger on.off protector
+
+NomadShell_0.1
+main/battery screw hole from 2mm->2.4mm from outside
+add BLE antenna
+add SMA recess
+water drainage from antenna cover
+add recess  on the cover on main/battery cover
+
